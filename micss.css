@@ -1,0 +1,50 @@
+body{
+	background-color: pink;
+		font-family: Silhouette;
+
+}
+.uno{
+	color: magenta;
+}
+
+img{
+	height: 300px;
+	width: 300px;
+}
+
+a{
+	font-family: sans-serif;
+	background-color: white;
+	border:1px solid grey;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	
+
+
+}
+
+#ola{
+		height: 300px;
+	width: 50px;
+}
+
+#u{
+	height: 300px;
+	width: 50px;
+}
+
+#o{
+height: 300px;
+	width: 50px;
+}
+
+#e{
+	height: 300px;
+	width: 50px;
+}
+
+.cuerno{
+	height: 100px;
+	width: 300px;
+}
